@@ -86,6 +86,9 @@ class ImageProcessor:
                 # Open the image using PIL
                 img = Image.open(input_path)
 
+                # Convert the image to RGBA
+                img = img.convert('RGB')
+
                 # Crop the bottom part of the image
                 img = img.crop((0, 0, img.width, img.height - cropped_height))
 
