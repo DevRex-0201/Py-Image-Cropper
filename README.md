@@ -3,6 +3,10 @@
 ## Overview
 This Python script provides a simple GUI-based image processing tool using the Tkinter library. The script allows users to specify a folder containing images and apply processing operations such as cropping and resizing to each image in the folder. The processed images are then saved with a specified result file prefix.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Image-Cropper.png)](https://drive.google.com/file/d/1jEX7336rLk1PZ5ZE7m_FxkuDGASvDe7s/view?usp=drive_link)
+
 ## Dependencies
 Ensure that you have the following libraries installed before running the script:
 
