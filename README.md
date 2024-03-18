@@ -5,7 +5,7 @@ This Python script provides a simple GUI-based image processing tool using the T
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Image-Cropper.png)](https://drive.google.com/file/d/1jEX7336rLk1PZ5ZE7m_FxkuDGASvDe7s/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Image-Cropper.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Image-Cropper.mp4)
 
 ## Dependencies
 Ensure that you have the following libraries installed before running the script:
